@@ -1,7 +1,7 @@
 # The Impact of Token Granularity on the Predictive Power of Language Model Surprisal
 
 ## Introduction
-This is the code repository for the paper [The Impact of Token Granularity on the Predictive Power of Language Model Surprisal](https://arxiv.org/pdf/2412.11940v2.pdf), including trained [unigram language model (ULM) tokenizers](https://github.com/google/sentencepiece) and fairly minimal code for training [Mamba-2 models](https://github.com/state-spaces/mamba) and calculating surprisal from them.
+This is the code repository for the paper [The Impact of Token Granularity on the Predictive Power of Language Model Surprisal](https://arxiv.org/pdf/2412.11940v2), including trained [unigram language model (ULM) tokenizers](https://github.com/google/sentencepiece) and fairly minimal code for training [Mamba-2 models](https://github.com/state-spaces/mamba) and calculating surprisal from them.
 Much of this repository is based on commit 4a8a2a2 of the official Mamba repository.
 
 ## Setup
